@@ -1,0 +1,34 @@
+[
+  {
+    "name": "marco",
+    "email": "maffonseca04@gmail.com",
+    "stage": "novo",
+    "created": "2025-11-19",
+    "perfil_type": "Engenheiro de IA",
+    "interesse": true
+  },
+  {
+    "name": "euy",
+    "email": "eueu@gmail.com",
+    "stage": "novo",
+    "created": "2025-11-19",
+    "perfil_type": "Sem recomendação!",
+    "interesse": false
+  },
+  {
+    "name": "eu2",
+    "email": "eu222@gmail.com",
+    "stage": "novo",
+    "created": "2025-11-19",
+    "perfil_type": "Sem recomendação!",
+    "interesse": true
+  },
+  {
+    "name": "marco",
+    "email": "maffonseca04@gmail.com",
+    "stage": "novo",
+    "created": "2025-11-19",
+    "perfil_type": "Analista de Negócios",
+    "interesse": true
+  }
+]
